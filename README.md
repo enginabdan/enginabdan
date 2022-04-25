@@ -48,7 +48,7 @@ Self-Confident to come up with exciting and novel ideas for Client Relationships
 
 A motivational leader, continuously managing change to deliver value for the job.
 
-<a href="https://www.linkedin.com/in/enginabdan/" target="blank"><img src="https://user-images.githubusercontent.com/99399722/165002283-6a7e6b9e-70d3-443e-9ef3-88cc66b8d275.jpg" alt="Linkedin" width="190" height="250" border="5"></a>
+<a href="https://www.linkedin.com/in/enginabdan/" target="blank"><img src="https://user-images.githubusercontent.com/99399722/165002283-6a7e6b9e-70d3-443e-9ef3-88cc66b8d275.jpg" alt="Linkedin" width="30" height="10" border="5"></a>
 
 
 
