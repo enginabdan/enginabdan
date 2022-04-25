@@ -47,8 +47,6 @@ Worked as;
 Self-Confident to come up with exciting and novel ideas for Client Relationships.
 
 A motivational leader, continuously managing change to deliver value for the job.
-
-<img src="{https://user-images.githubusercontent.com/99399722/165002283-6a7e6b9e-70d3-443e-9ef3-88cc66b8d275.jpg}"
      
 ![link](https://user-images.githubusercontent.com/99399722/165002283-6a7e6b9e-70d3-443e-9ef3-88cc66b8d275.jpg)
 
