@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-4+ years of experience in;
+3+ years of experience in;
   - IT and on Machine Learning,
   - Statistical Modeling,
   - Data Analysis,
