@@ -41,6 +41,6 @@ Possesses good communication skills, self-motivation, computational thinking; pr
 </a>
 
 <a href="https://sites.google.com/view/enginabdan" rel="nofollow">
-  <img align="center" src="https://www.onlinewebfonts.com/icon/471092" width="100" height="30">
+  <img align="center" src="[https://www.onlinewebfonts.com/icon/471092](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtP0v8NPq0_gfdDiu-nOn210pFSFsfKn1PnXF5NvMvP-IbENLdjP3Vdc2g9OQVbLdtGYE&usqp=CAU)" width="100" height="30">
 </a>
 
