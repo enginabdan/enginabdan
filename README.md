@@ -41,6 +41,6 @@ Possesses good communication skills, self-motivation, computational thinking; pr
 </a>
 
 <a href="https://sites.google.com/view/enginabdan" rel="nofollow">
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtu4TLPOI665SRER85gm6Msv6xtMK-dsdlvY7Hnf8TGc1Ge-RTLfo0S2qMjOAlRtXXoSs&usqp=CAU" width="50" height="32">
+  <img align="center" src="https://i.cnnturk.com/i/cnnturk/75/0x555/54f82100e50aa93814028f15" width="50" height="32">
 </a>
 
