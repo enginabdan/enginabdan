@@ -41,6 +41,6 @@ Possesses good communication skills, self-motivation, computational thinking; pr
 </a>
 
 <a href="https://sites.google.com/view/enginabdan" rel="nofollow">
-  <img align="center" src="[https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg](https://www.onlinewebfonts.com/icon/303844)" width="100" height="30">
+  <img align="center" src="[[https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg](https://www.onlinewebfonts.com/icon/303844)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6AmJ4WDiKYhWlCDW8HtG2LorLiCSHNmacA&usqp=CAU)" width="100" height="30">
 </a>
 
