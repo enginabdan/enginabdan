@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-5+ years of experience in IT and on Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis and Business Intelligence.
+My_Certificates_on_Linkedin
+
+3+ years of experience in IT and on Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis and Business Intelligence.
 
 •Python, MS SQL, SQLite, Tableau, GSS, Statistics, AWS-EC2, HTML, CSS, Linux, Git, Github, SDLC, Agile, Jira
 
