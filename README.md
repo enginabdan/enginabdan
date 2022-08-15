@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My_Certificates_on_Linkedin
-
 <a href="https://www.linkedin.com/in/enginabdan/details/certifications/"><b style="color: white;">My_Certificates_on_Linkedin</b></a>
 
 3+ years of experience in IT and on Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis and Business Intelligence.
