@@ -2,29 +2,23 @@
 
 <a href="https://www.linkedin.com/in/enginabdan/details/certifications/"><b style="color: white;">My_Certificates</b></a>
 
-Experience in IT, Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis and Business Intelligence since September 2016.
+With a rich background in IT, I bring extensive expertise in Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis, and Business Intelligence. My experience encompasses GPT-driven Flutter-based projects with Google Ads integration, Firebase storage/authentication, and deployment on both Android and iOS platforms.
 
-•Python, MS SQL, SQLite, Tableau, GSS, Statistics, AWS-EC2, HTML, CSS, Linux, Git, Github, SDLC, Agile, Jira
+Proficient in Python, Flutter, MS SQL, SQLite, Tableau, GSS, Statistics, AWS, GCP, Firebase, Android, iOS, Google Ad Mob, HTML, CSS, Linux, Git, Github, SDLC, Agile, Jira, and GPT, I excel in the end-to-end development cycle.
 
-•Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Tensorflow, Yellowbrick, Flask, Imbalanced-learn, Pycaret, XGBoost, LightGBM, Catboost, Smote, Pyproject, Pyclusterend, Statsmodels, Worldcloud, Pyforest,
+My skill set includes GPT-3/4, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Tensorflow, Yellowbrick, Flask, Imbalanced-learn, Pycaret, XGBoost, LightGBM, Catboost, Smote, Pyproject, Pyclusterend, Statsmodels, Worldcloud, Pyforest, and Flutter.
 
-Proficient at building robust Machine Learning, Deep Learning, NLP & ML Deployment.
+Specializing in building robust Machine Learning, Deep Learning, and NLP models, I have successfully deployed applications on Flutter linked to Google Ad Mob, stored/authenticated with Firebase, and integrated with GPT via API key.
 
-•ML: Linear Regression, Lasso, Ridge, ElasticNet, Logistic Regression, KNN, SVM, Decision Tree, Random Forest, AdaBoost, GradientBoost, XGBoost, LightGBM, K Means Cluster, Hierarchical Cluster, PCA.
+My proficiency extends to ML algorithms such as Linear Regression, Lasso, Ridge, ElasticNet, Logistic Regression, KNN, SVM, Decision Tree, Random Forest, AdaBoost, GradientBoost, XGBoost, LightGBM, K Means Cluster, Hierarchical Cluster, and PCA.
 
-•DL: CNN, RNN.
+In Deep Learning, I am well-versed in CNN and RNN, while my NLP capabilities include Tokenization, Noise Removal, Lexicon Normalization, Stopwords, Lemmatization, Stemming, TF-IDF, Vectorization, Naive Bayes, Word Embedding, Word2Vec, Glove, Optimizer, and Sentiment Analysis.
 
-•NLP: Tokenization, Noise Removal, Lexicon Normalization, Stopwords, Lemmatization, Stemming, TF-IDF, Vectorization, Naive Bayes, Word Embedding, Word2Vec, Glove, Optimizer, Sentiment Analysis.   
+In the realm of MLD, I am adept at AWS, Streamlit, Flask, Ngrok, Tmux, and Docker.
 
-•MLD: AWS, IAM, EC2, Streamlit, Flask, Ngrok, Tmux, Docker.
+As an app developer, I specialize in Flutter-based applications authenticated/stored on Firebase, linked with API keys to GPT models, and embedded with Google Ad Mob on both iOS and Android platforms.
 
-Designing the Multiple Intelligence Theory Application in Pilot Training with Machine Learning models thus increasing the training efficiency and success rate.
-
-Self-Confident to come up with exciting and novel ideas for Client Relationships.
-
-A motivational leader, continuously managing change to deliver value for the job.
-
-Possesses good communication skills, self-motivation, computational thinking; pro-active, task-oriented problem solver and team player with good mathematical skills and ability to learn new technologies and systems quickly and identify and solve problems, schedule, and complete assignments.
+Confident and innovative, I thrive on generating novel ideas to foster strong client relationships. A motivational leader, I adeptly manage change to deliver value in every endeavor. Possessing excellent communication skills, self-motivation, computational thinking, and a proactive problem-solving approach, I am a dedicated team player with strong mathematical skills and the ability to quickly grasp and implement new technologies.
 
 <h1 align="center" dir="auto"><a id="user-content--chart_with_upwards_trend-statistics-" class="anchor" aria-hidden="true" href="#-chart_with_upwards_trend-statistics-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png"></g-emoji> Platforms & Contact </h1>
 
