@@ -2,21 +2,19 @@
 
 <a href="https://www.linkedin.com/in/enginabdan/details/certifications/"><b style="color: white;">My_Certificates</b></a>
 
-With a rich background in IT, I bring extensive expertise in Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis, and Business Intelligence. My experience encompasses GPT-driven Flutter-based projects with Google Ads integration, Firebase storage/authentication, and deployment on both Android and iOS platforms.
+I specialize in developing robust Flutter-based applications integrated with GPT, Firebase, and Google AdMob for seamless cross-platform deployment on both iOS and Android. Leveraging GPT API keys, I create intelligent and interactive features, ensuring dynamic user engagement. These applications are secured and enhanced using Firebase authentication and storage, delivering scalable, high-performance solutions that adhere to industry standards.
 
-Proficient in Python, Flutter, MS SQL, SQLite, Tableau, GSS, Statistics, AWS, GCP, Firebase, Android, iOS, Google Ad Mob, HTML, CSS, Linux, Git, Github, SDLC, Agile, Jira, and GPT, I excel in the end-to-end development cycle.
+With a rich background in IT, I bring deep expertise in Machine Learning, Deep Learning, NLP, Deployment, Statistical Modeling, Data Analysis, Data Manipulation, Data Visualization, Predictive Analysis, and Business Intelligence.
 
-My skill set includes GPT-3/4, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Tensorflow, Yellowbrick, Flask, Imbalanced-learn, Pycaret, XGBoost, LightGBM, Catboost, Smote, Pyproject, Pyclusterend, Statsmodels, Worldcloud, Pyforest, and Flutter.
+My expertise also extends to UI/UX design using Figma and Canva, enabling me to craft visually appealing and user-centric interfaces for Flutter applications. By combining design tools with development skills, I ensure the delivery of intuitive, modern, and responsive app experiences that captivate users and drive engagement.
 
-Specializing in building robust Machine Learning, Deep Learning, and NLP models, I have successfully deployed applications on Flutter linked to Google Ad Mob, stored/authenticated with Firebase, and integrated with GPT via API key.
+Proficient in Python, Flutter, Figma, Canva, MS SQL, SQLite, Tableau, AWS, GCP, Firebase, Android, iOS, Google AdMob, HTML, CSS, Linux, Git, GitHub, SDLC, Agile, and Jira, I am well-versed in managing the complete development lifecycle. My technical acumen extends to deploying state-of-the-art mobile applications that combine AI-driven insights, sleek UI/UX designs, and monetization through AdMob integration.
 
-My proficiency extends to ML algorithms such as Linear Regression, Lasso, Ridge, ElasticNet, Logistic Regression, KNN, SVM, Decision Tree, Random Forest, AdaBoost, GradientBoost, XGBoost, LightGBM, K Means Cluster, Hierarchical Cluster, and PCA.
+In the domain of Machine Learning and Deep Learning, my toolkit includes libraries and frameworks like Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Pycaret, XGBoost, LightGBM, and CatBoost. I am adept at developing and fine-tuning ML algorithms such as Linear Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, and PCA, while my Deep Learning expertise spans CNN and RNN architectures.
 
-In Deep Learning, I am well-versed in CNN and RNN, while my NLP capabilities include Tokenization, Noise Removal, Lexicon Normalization, Stopwords, Lemmatization, Stemming, TF-IDF, Vectorization, Naive Bayes, Word Embedding, Word2Vec, Glove, Optimizer, and Sentiment Analysis.
+On the NLP front, I excel in tasks such as Tokenization, Noise Removal, Lemmatization, Stemming, TF-IDF, Word2Vec, Glove, and Sentiment Analysis, building intelligent language models tailored to business needs.
 
-In the realm of MLD, I am adept at AWS, Streamlit, Flask, Ngrok, Tmux, and Docker.
-
-As an app developer, I specialize in Flutter-based applications authenticated/stored on Firebase, linked with API keys to GPT models, and embedded with Google Ad Mob on both iOS and Android platforms.
+As a tech-savvy app developer, I thrive on designing and deploying AI-powered mobile applications. My projects leverage GPT's advanced AI capabilities, streamlined integration with Firebase for authentication and cloud storage, and seamless deployment on both iOS and Android platforms. I also ensure monetization strategies with Google AdMob for added business value.
 
 Confident and innovative, I thrive on generating novel ideas to foster strong client relationships. A motivational leader, I adeptly manage change to deliver value in every endeavor. Possessing excellent communication skills, self-motivation, computational thinking, and a proactive problem-solving approach, I am a dedicated team player with strong mathematical skills and the ability to quickly grasp and implement new technologies.
 
